@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseAuthTeste</string>
+
+    <string name="signOut">Sign Out</string>
+
+    <string name="contentDescriptionUserPhoto">User Photo</string>
+</resources>
