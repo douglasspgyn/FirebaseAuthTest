@@ -3,5 +3,7 @@
 
     <string name="signOut">Sign Out</string>
 
+    <string name="loading">Loading…</string>
+
     <string name="contentDescriptionUserPhoto">User Photo</string>
 </resources>
